@@ -10,7 +10,7 @@ Questo comporta il completamento delle prime tre fasi:
 2. Progettazione architettonica (basi di dati, agenti, messaggi e protocolli)
 3. Progettazione dettagliata
 
-Infine per la progettazione delle ontologie ho usato il software Protege.
+Infine ho usato il software Protege per la progettazione delle ontologie (entità, classi, oggetti, relazioni e proprietà)
 
 Note:
 Nel file Documentazione_Progetto.pdf c'è la mia relazione su come ho sviluppato i tre punti su Prometheus.
