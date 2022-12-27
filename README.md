@@ -13,7 +13,9 @@ Questo comporta il completamento delle prime tre fasi:
 Infine ho usato il software Protege per la progettazione delle ontologie (entità, classi, oggetti, relazioni e proprietà)
 
 Note:
+
 Nel file Documentazione_Progetto.pdf c'è la mia relazione su come ho sviluppato i tre punti su Prometheus.
+
 Nel file Testo_Progetto.pdf c'è la consegna che ho dovuto seguire per svolgere il progetto.
 Questo progetto l'ho svolto durante la mia esperienza Erasmus a Barcellona e purtroppo le altre due persone con cui dovevo farlo, hanno smesso di seguire il corso dopo poche lezioni dall'inizio, 
 probabilmente spaventati un pò dalla complessità e grandezza del progetto... Ho dovuto quindi svolgere il progetto interamente da solo, quindi concordandomi con il professore non ho svolto tutti
